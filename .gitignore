@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment Variables (Database Passwords)
+.env
+server/.env
+
+# Build folders
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# System Files
+.vscode/
+.DS_Store
